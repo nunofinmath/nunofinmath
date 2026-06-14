@@ -14,14 +14,15 @@ Quantitative Finance & Data Science profile focused on applying mathematics, sta
 
 ## Project Roadmap
 
-| Status      | Project                                      | Focus                                                          |
-| ----------- | -------------------------------------------- | -------------------------------------------------------------- |
-| In progress | Option Pricing: Python vs C++                | Black-Scholes, Monte Carlo, numerical methods, performance     |
-| Planned     | Thesis Extension: PDE with Banded Volatility | Black-Scholes PDE, finite differences, non-constant volatility |
-| Planned     | Market Risk: VaR & Expected Shortfall        | Market risk, simulation, backtesting                           |
-| Planned     | Volatility Forecasting                       | Time series, GARCH, ML forecasting                             |
-| Planned     | Credit Risk Scoring                          | Banking analytics, classification, explainability              |
-| Planned     | Financial RAG Assistant                      | LLMs, embeddings, financial documents                          |
+| Status      | Project                                                                                     | Focus                                                                                             |
+| ----------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| In progress | [Credit Risk Model Validation](https://github.com/nunofinmath/credit-risk-model-validation) | PD modelling, challenger models, discrimination, calibration, stability and simplified IFRS 9 ECL |
+| Next        | Option Pricing: Python vs C++                                                               | Black-Scholes, Monte Carlo, numerical methods and performance comparison                          |
+| Planned     | Thesis Extension: PDE with Banded Volatility                                                | Black-Scholes PDE, finite differences and non-constant volatility                                 |
+| Planned     | Market Risk: VaR & Expected Shortfall                                                       | Historical simulation, Monte Carlo, backtesting and risk reporting                                |
+| Planned     | Volatility Forecasting                                                                      | Time series, GARCH and regime-switching models                                                    |
+| Planned     | Financial RAG Assistant                                                                     | LLMs, embeddings and financial document analysis                                                  |
+
 
 ## Portfolio Philosophy
 
